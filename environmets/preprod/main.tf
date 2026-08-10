@@ -37,7 +37,7 @@ module "Bastions" {
   Bastions   = var.Bastion-value
 }
 
-/*
+
 module "Linux_virtual_machine" {
   depends_on = [module.subnet, module.Public_Ip]
   source     = "../../child-module/azurerm_linux_virtual_machine"
@@ -45,5 +45,3 @@ module "Linux_virtual_machine" {
 }
 
 
-
-*/
