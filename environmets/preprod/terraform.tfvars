@@ -3,6 +3,10 @@ rg-value = {
     name     = "Ahir"
     location = "East Asia"
   }
+  rg2 = {
+    name     = "Ahir"
+    location = "East Asia"
+  }
 }
 
 vnet-value = {
