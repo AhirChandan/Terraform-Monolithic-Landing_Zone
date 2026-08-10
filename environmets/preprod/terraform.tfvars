@@ -3,7 +3,9 @@ rg-value = {
     name     = "Ahir"
     location = "East Asia"
   }
-}
+    name     = "Ahir"
+    location = "East Asia"
+  }
 
 vnet-value = {
   vnet1 = {
